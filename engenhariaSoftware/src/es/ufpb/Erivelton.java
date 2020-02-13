@@ -11,9 +11,9 @@ static int soma(int a, int b) {
 public static void main(String [] args) {
 
 	a = 5;
-	b = 5;
-	resultado = ( a+ b);
-	System.out.printf("resultado:", );
+	b = 10;
+	resultado = (a + b);
+	System.out.println("resultado: " +resultado);
 
 	}
 
